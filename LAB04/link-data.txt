@@ -1,0 +1,2 @@
+Dataset source: Zoo / Animal Dataset (e.g. UCI Zoo Dataset)
+https://archive.ics.uci.edu/ml/datasets/Zoo
