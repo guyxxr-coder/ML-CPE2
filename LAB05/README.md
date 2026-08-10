@@ -3,7 +3,7 @@ DATA Kaggle Cats and Dogs Dataset: https://www.kaggle.com/datasets/bhavikjikadar
 ## Structure
 
 ```text
-ML-05-SVM/
+LAB05/
 ├── PetImages/
 │   ├── duck/
 │   │   ├── 0.jpg
