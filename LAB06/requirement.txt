@@ -1,0 +1,15 @@
+เพื่อให้นักศึกษาเข้าใจหลักการทำงานของ Neural Network (NN) และแนวทางการประยุกต์ใช้ในงานจริงทั้งด้านการจำแนกและการพยากรณ์   
+
+เพื่อให้นักศึกษาสามารถพัฒนาผังการทำงาน ประมวลผล และแสดงผลลัพธ์ เพื่อพัฒนาระบบต้นแบบร่วมกับ NN ในการจำแนกและการพยากรณ์ได้อย่างถูกต้อง
+
+Professional / Academic Style
+
+To enable students to understand the working principles of Neural Networks (NN) and their practical applications in both classification and prediction.
+
+To enable students to design workflows, process data, and present results to correctly develop prototype systems integrated with Neural Networks for classification and prediction.
+
+Objectives Section Style (for Course Syllabi / Lab Manuals)
+
+To provide students with a comprehensive understanding of Neural Network (NN) fundamentals and their real-world applications in classification and forecasting tasks.
+
+To equip students with the skills to develop system workflows, process data, and visualize outcomes for building functional NN-based prototype systems in classification and forecasting. 
