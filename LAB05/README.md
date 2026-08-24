@@ -1,4 +1,4 @@
-DATA Kaggle Cats and Dogs Dataset: [https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset](https://www.kaggle.com/datasets/patricia2025131053/duck-and-goose)
+DATA Kaggle Cats and Dogs Dataset: (https://www.kaggle.com/datasets/patricia2025131053/duck-and-goose)
 
 ## Structure
 
