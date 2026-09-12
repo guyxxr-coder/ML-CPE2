@@ -1,5 +1,5 @@
 ## ระบบทำนายทิศทางราคาหุ้นรายวัน (Up/Down) โดยใช้แบบจำลอง **Support Vector Classification (SVC)** ร่วมกับตัวชี้วัดทางเทคนิค (Technical Indicators) และคุณลักษณะการหน่วงเวลา (Time-Series Lag Features) เพื่อแก้ปัญหา Model Bias และยกระดับเสถียรภาพของการทำนายข้อมูลทางการเงิน
-
+```text
 SVM-Product/
 │
 ├── data/
@@ -14,4 +14,4 @@ SVM-Product/
 ├── confusion_matrix.png       # กราฟ Heatmap แสดงผลการทำนายราย Class
 ├── cumulative_returns.png     # กราฟเปรียบเทียบผลตอบแทนสะสม
 └── README.md                  # สรุปรายละเอียดโปรเจกต์
-
+```
