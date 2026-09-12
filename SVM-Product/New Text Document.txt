@@ -1,0 +1,13 @@
+pip install pandas numpy scikit-learn yfinance matplotlib seaborn
+
+pandas: ใช้จัดการข้อมูลตาราง (DataFrames) อ่านไฟล์ CSV และทำ Data Manipulation
+
+numpy: ใช้สำหรับการคำนวณทางคณิตศาสตร์ และจัดการอาร์เรย์ตัวเลข
+
+scikit-learn: ใช้สำหรับสร้างโมเดล Machine Learning (SVC), ทำ Feature Scaling (StandardScaler), และประเมินผลโมเดล (classification_report, confusion_matrix)
+
+yfinance: ใช้สำหรับดึงข้อมูลราคาหุ้นย้อนหลังจาก Yahoo Finance API
+
+matplotlib: ใช้สำหรับวาดและบันทึกรูปกราฟ (เช่น cumulative_returns.png)
+
+seaborn: ใช้สำหรับวาดกราฟ Heatmap ของ Confusion Matrix ให้สวยงาม (confusion_matrix.png)
