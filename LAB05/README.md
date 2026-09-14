@@ -39,4 +39,10 @@ LAB05/
 ## Summary
 The project uses SVM for duck and goose image recognition. Images are loaded from class directories, resized, converted into feature vectors, scaled, and then used to train an SVM classifier. The trained model is evaluated using accuracy, precision, recall, F1-score, and a confusion matrix.
 
+## Result
+<img width="494" height="433" alt="image" src="https://github.com/user-attachments/assets/9ebc220a-edf7-47fc-8457-750910cb8cf0" />
+<img width="700" height="420" alt="c1413a68-00f1-4c59-a7d7-1fdbadc246e5" src="https://github.com/user-attachments/assets/59d21c28-ae94-4d46-b46e-b42f3880373c" />
+<img width="459" height="453" alt="image (1)" src="https://github.com/user-attachments/assets/400d4cd1-bfbf-4360-97b5-a6d961559722" />
+
+
 
