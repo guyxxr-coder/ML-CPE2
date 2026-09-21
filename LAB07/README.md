@@ -3,7 +3,7 @@
 Build a CNN pipeline using Python for image recognition. The project covers image loading, preprocessing, dataset splitting, CNN model training, evaluation, and prediction.
 # Data
 
-Kaggle Duck vs. Goose: https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
+Kaggle Duck vs. Goose: (https://www.kaggle.com/datasets/patricia2025131053/duck-and-goose)
 # Project Structure
 ML-07-CNN/
 │
