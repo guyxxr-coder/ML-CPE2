@@ -1,0 +1,5 @@
+tensorflow — สำหรับสร้างและฝึกสอนโมเดล CNN / Keras   
+opencv-python — สำหรับโหลดและประมวลผลรูปภาพ (OpenCV / cv2)  
+numpy — สำหรับจัดการข้อมูลประเภท Array   
+scikit-learn — สำหรับแบ่งข้อมูล (train/val/test) และประเมินผลโมเดล (Metrics)   
+matplotlib — สำหรับวาดและบันทึกรูปภาพกราฟ/ผลการทำพยากรณ์   
