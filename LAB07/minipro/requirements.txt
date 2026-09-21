@@ -1,0 +1,8 @@
+pip install tensorflow opencv-python numpy scikit-learn matplotlib
+
+1. รายชื่อ Library ที่ต้องติดตั้งผ่าน pip
+tensorflow — ใช้สร้าง ฝึกสอน (Train) และเรียกใช้งานโมเดล CNN / Keras   
+opencv-python — ใช้สำหรับอ่าน แปลงระบบสี BGRเป็นRGB และปรับขนาดรูปภาพ (cv2)   
+numpy — ใช้จัดการและคำนวณข้อมูลอาร์เรย์ (Matrix/Array Operations)   
+scikit-learn — ใช้แบ่งชุดข้อมูล (Train / Validation / Test) และประเมินผลโมเดล (Accuracy, Precision, Recall, F1, Confusion Matrix)   
+matplotlib — ใช้วาดและบันทึกไฟล์รูปภาพกราฟผลการเทรน (Accuracy/Loss) และ Confusion Matrix   
