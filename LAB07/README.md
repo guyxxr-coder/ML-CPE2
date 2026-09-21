@@ -5,6 +5,7 @@ Build a CNN pipeline using Python for image recognition. The project covers imag
 
 Kaggle Duck vs. Goose: (https://www.kaggle.com/datasets/patricia2025131053/duck-and-goose)
 # Project Structure
+```text
 ML-07-CNN/
 │
 ├── PetImages/                  
