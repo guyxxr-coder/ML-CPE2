@@ -1,4 +1,4 @@
-# ML-07-Convolutional Neural Network (CNN)
+# ML-08-Deep Convolutional Neural Network (DCNN)
 
 Build a CNN pipeline using Python for image recognition. The project covers image loading, preprocessing, dataset splitting, CNN model training, evaluation, and prediction.
 # Data
