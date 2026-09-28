@@ -7,9 +7,9 @@ Kaggle Duck vs. Goose: (https://www.kaggle.com/datasets/patricia2025131053/duck-
 (https://www.kaggle.com/datasets/alicenkbaytop/duck-images)
 # Project Structure
 ```text
-ML-07-CNN/
+ML-08-DCNN/
 │
-├── PetImages/                  
+├── PetImages/                     
 │   ├── Duck/
 │   │   ├── 0.jpg
 │   │   ├── 1.jpg
@@ -24,12 +24,12 @@ ML-07-CNN/
 │   ├── main.py                     # Main training pipeline
 │   ├── data_loader.py              # Load images and skip corrupted files
 │   ├── preprocessing.py            # Resize images and convert BGR to RGB
-│   ├── split_data.py               # Split data into training, validation, and test sets
-│   ├── cnn_model.py                # Build, train, save, and predict with the CNN model
-│   ├── evaluate.py                 # Accuracy, classification report, confusion matrix, and training plots
-│   ├── test_cnn.py                 # Test the trained model using four random images
-│   └── outputs/                    
-│       ├── features.npy
+│   ├── split_data.py               # Split the dataset into training, validation, and test sets
+│   ├── vgg_model.py                # Build, train, save, and predict using the VGG model
+│   ├── evaluate.py                 # Accuracy, classification report, confusion matrix, and training history plots
+│   ├── test_vgg.py                 # Test the trained model using four random images 
+│   │
+│   └── outputs/                    # Generated files 
 │       ├── labels.npy
 │       ├── classes.json
 │       ├── X_train.npy
@@ -38,11 +38,12 @@ ML-07-CNN/
 │       ├── y_train.npy
 │       ├── y_val.npy
 │       ├── y_test.npy
-│       ├── cnn_model.keras
+│       ├── vgg_model.keras
 │       ├── history.json
 │       ├── confusion_matrix.png
 │       ├── training_history.png
 │       └── prediction_sample.png
+│
 └── requirements.txt
 ```
 # Summary
