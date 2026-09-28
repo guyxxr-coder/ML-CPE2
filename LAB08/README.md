@@ -1,6 +1,6 @@
 # ML-08-Deep Convolutional Neural Network (DCNN)
 
-Build a CNN pipeline using Python for image recognition. The project covers image loading, preprocessing, dataset splitting, CNN model training, evaluation, and prediction.
+
 # Data
 
 Kaggle Duck vs. Goose: (https://www.kaggle.com/datasets/patricia2025131053/duck-and-goose) ,(https://www.kaggle.com/datasets/ronnichang/goose-identification-dataset),
