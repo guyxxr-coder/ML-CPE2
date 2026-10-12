@@ -1,6 +1,6 @@
 # ML-10-Object Detection II
 
-โปรเจกต์นี้เป็นการนำเสนอการตรวจจับวัตถุด้วย YOLOv8 โดยใช้ชุดข้อมูล Traffic Violation Detection โปรเจกต์นี้ใช้ตรวจจับ ป้ายบนท้องถนน โดยครอบคลุมตั้งแต่การเทรน (Training), การประเมินผล (Evaluation), การอนุมานภาพ (Image inference), และการตรวจจับผ่านเว็บแคมแบบเรียลไทม์ (Real-time webcam detection)
+โปรเจกต์นี้เป็นการนำเสนอการตรวจจับวัตถุด้วย YOLOv8 โดยใช้ชุดข้อมูล Traffic Violation Detection โปรเจกต์นี้ใช้ตรวจจับ ป้ายบนท้องถนน โดยครอบคลุมตั้งแต่การเทรน (Training), การประเมินผล (Evaluation), การอนุมานภาพ (Image inference), และการตรวจจับผ่านเว็บแคมแบบเรียลไทม์ (Real-time webcam detection) หรือตรวจจับจากวิดีโอ
  
 ## 1. ภาพรวมของโปรเจกต์ (Project Overview)
 
