@@ -1,0 +1,8 @@
+{
+  "split": "val",
+  "crops": 200,
+  "accuracy": 0.445,
+  "precision_macro": 0.06383977661638064,
+  "recall_macro": 0.05791201709855286,
+  "f1_macro": 0.051725677898824804
+}
